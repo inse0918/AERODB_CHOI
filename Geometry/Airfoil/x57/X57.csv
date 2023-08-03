@@ -1,0 +1,1308 @@
+# AIRFOIL METADATA CSV FILE
+
+Airfoil File Directory, C:/WORKINGSPACE/OpenVSP/AERODB/Geometry/Airfoil/
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_0.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 0
+XSec Flag, 1
+XSec Index, 0
+XSecSurf ID, VQYSHCDLJN
+FoilSurf u Value, 0.000000
+Global u Value, 0.333333
+Leading Edge Point, 0.023314, 0.000000, 1.064640
+Trailing Edge Point, 29.764687, 0.000000, -0.096438
+Chord, 29.764027
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_1.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 1
+XSec Flag, 0
+FoilSurf u Value, 0.010101
+Global u Value, 0.336700
+Leading Edge Point, 0.086204, 1.916532, 1.056274
+Trailing Edge Point, 29.737609, 1.916532, -0.093942
+Chord, 29.673706
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_2.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 2
+XSec Flag, 0
+FoilSurf u Value, 0.020202
+Global u Value, 0.340067
+Leading Edge Point, 0.149093, 3.833064, 1.047908
+Trailing Edge Point, 29.710531, 3.833064, -0.091446
+Chord, 29.583386
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_3.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 3
+XSec Flag, 0
+FoilSurf u Value, 0.030303
+Global u Value, 0.343434
+Leading Edge Point, 0.211982, 5.749595, 1.039542
+Trailing Edge Point, 29.683453, 5.749595, -0.088949
+Chord, 29.493069
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_4.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 4
+XSec Flag, 0
+FoilSurf u Value, 0.040404
+Global u Value, 0.346801
+Leading Edge Point, 0.274871, 7.666127, 1.031176
+Trailing Edge Point, 29.656375, 7.666127, -0.086453
+Chord, 29.402753
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_5.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 5
+XSec Flag, 0
+FoilSurf u Value, 0.050505
+Global u Value, 0.350168
+Leading Edge Point, 0.337760, 9.582659, 1.022809
+Trailing Edge Point, 29.629297, 9.582659, -0.083956
+Chord, 29.312439
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_6.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 6
+XSec Flag, 0
+FoilSurf u Value, 0.060606
+Global u Value, 0.353535
+Leading Edge Point, 0.400649, 11.499191, 1.014443
+Trailing Edge Point, 29.602219, 11.499191, -0.081460
+Chord, 29.222127
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_7.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 7
+XSec Flag, 0
+FoilSurf u Value, 0.070707
+Global u Value, 0.356902
+Leading Edge Point, 0.463538, 13.415723, 1.006077
+Trailing Edge Point, 29.575141, 13.415723, -0.078963
+Chord, 29.131817
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_8.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 8
+XSec Flag, 0
+FoilSurf u Value, 0.080808
+Global u Value, 0.360269
+Leading Edge Point, 0.526427, 15.332255, 0.997711
+Trailing Edge Point, 29.548064, 15.332255, -0.076467
+Chord, 29.041509
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_9.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 9
+XSec Flag, 0
+FoilSurf u Value, 0.090909
+Global u Value, 0.363636
+Leading Edge Point, 0.589316, 17.248786, 0.989345
+Trailing Edge Point, 29.520986, 17.248786, -0.073970
+Chord, 28.951203
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_10.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 10
+XSec Flag, 0
+FoilSurf u Value, 0.101010
+Global u Value, 0.367003
+Leading Edge Point, 0.652205, 19.165318, 0.980979
+Trailing Edge Point, 29.493908, 19.165318, -0.071474
+Chord, 28.860898
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_11.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 11
+XSec Flag, 0
+FoilSurf u Value, 0.111111
+Global u Value, 0.370370
+Leading Edge Point, 0.715094, 21.081850, 0.972613
+Trailing Edge Point, 29.466830, 21.081850, -0.068977
+Chord, 28.770596
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_12.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 12
+XSec Flag, 0
+FoilSurf u Value, 0.121212
+Global u Value, 0.373737
+Leading Edge Point, 0.777983, 22.998382, 0.964247
+Trailing Edge Point, 29.439752, 22.998382, -0.066481
+Chord, 28.680296
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_13.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 13
+XSec Flag, 0
+FoilSurf u Value, 0.131313
+Global u Value, 0.377104
+Leading Edge Point, 0.840873, 24.914914, 0.955881
+Trailing Edge Point, 29.412674, 24.914914, -0.063984
+Chord, 28.589998
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_14.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 14
+XSec Flag, 0
+FoilSurf u Value, 0.141414
+Global u Value, 0.380471
+Leading Edge Point, 0.903762, 26.831445, 0.947515
+Trailing Edge Point, 29.385596, 26.831445, -0.061488
+Chord, 28.499702
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_15.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 15
+XSec Flag, 0
+FoilSurf u Value, 0.151515
+Global u Value, 0.383838
+Leading Edge Point, 0.966651, 28.747977, 0.939149
+Trailing Edge Point, 29.358518, 28.747977, -0.058991
+Chord, 28.409407
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_16.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 16
+XSec Flag, 0
+FoilSurf u Value, 0.161616
+Global u Value, 0.387205
+Leading Edge Point, 1.029540, 30.664509, 0.930783
+Trailing Edge Point, 29.331441, 30.664509, -0.056495
+Chord, 28.319115
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_17.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 17
+XSec Flag, 0
+FoilSurf u Value, 0.171717
+Global u Value, 0.390572
+Leading Edge Point, 1.092429, 32.581041, 0.922417
+Trailing Edge Point, 29.304363, 32.581041, -0.053999
+Chord, 28.228826
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_18.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 18
+XSec Flag, 0
+FoilSurf u Value, 0.181818
+Global u Value, 0.393939
+Leading Edge Point, 1.155318, 34.497573, 0.914051
+Trailing Edge Point, 29.277285, 34.497573, -0.051502
+Chord, 28.138538
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_19.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 19
+XSec Flag, 0
+FoilSurf u Value, 0.191919
+Global u Value, 0.397306
+Leading Edge Point, 1.218207, 36.414105, 0.905685
+Trailing Edge Point, 29.250207, 36.414105, -0.049006
+Chord, 28.048252
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_20.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 20
+XSec Flag, 0
+FoilSurf u Value, 0.202020
+Global u Value, 0.400673
+Leading Edge Point, 1.281096, 38.330636, 0.897319
+Trailing Edge Point, 29.223129, 38.330636, -0.046509
+Chord, 27.957969
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_21.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 21
+XSec Flag, 0
+FoilSurf u Value, 0.212121
+Global u Value, 0.404040
+Leading Edge Point, 1.343985, 40.247168, 0.888953
+Trailing Edge Point, 29.196051, 40.247168, -0.044013
+Chord, 27.867687
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_22.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 22
+XSec Flag, 0
+FoilSurf u Value, 0.222222
+Global u Value, 0.407407
+Leading Edge Point, 1.406874, 42.163700, 0.880587
+Trailing Edge Point, 29.168973, 42.163700, -0.041516
+Chord, 27.777408
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_23.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 23
+XSec Flag, 0
+FoilSurf u Value, 0.232323
+Global u Value, 0.410774
+Leading Edge Point, 1.469763, 44.080232, 0.872221
+Trailing Edge Point, 29.141895, 44.080232, -0.039020
+Chord, 27.687131
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_24.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 24
+XSec Flag, 0
+FoilSurf u Value, 0.242424
+Global u Value, 0.414141
+Leading Edge Point, 1.532653, 45.996764, 0.863854
+Trailing Edge Point, 29.114818, 45.996764, -0.036523
+Chord, 27.596857
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_25.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 25
+XSec Flag, 0
+FoilSurf u Value, 0.252525
+Global u Value, 0.417508
+Leading Edge Point, 1.595542, 47.913295, 0.855488
+Trailing Edge Point, 29.087740, 47.913295, -0.034027
+Chord, 27.506584
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_26.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 26
+XSec Flag, 0
+FoilSurf u Value, 0.262626
+Global u Value, 0.420875
+Leading Edge Point, 1.658431, 49.829827, 0.847122
+Trailing Edge Point, 29.060662, 49.829827, -0.031530
+Chord, 27.416314
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_27.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 27
+XSec Flag, 0
+FoilSurf u Value, 0.272727
+Global u Value, 0.424242
+Leading Edge Point, 1.721320, 51.746359, 0.838756
+Trailing Edge Point, 29.033584, 51.746359, -0.029034
+Chord, 27.326047
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_28.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 28
+XSec Flag, 0
+FoilSurf u Value, 0.282828
+Global u Value, 0.427609
+Leading Edge Point, 1.784209, 53.662891, 0.830390
+Trailing Edge Point, 29.006506, 53.662891, -0.026537
+Chord, 27.235781
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_29.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 29
+XSec Flag, 0
+FoilSurf u Value, 0.292929
+Global u Value, 0.430976
+Leading Edge Point, 1.847098, 55.579423, 0.822024
+Trailing Edge Point, 28.979428, 55.579423, -0.024041
+Chord, 27.145518
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_30.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 30
+XSec Flag, 0
+FoilSurf u Value, 0.303030
+Global u Value, 0.434343
+Leading Edge Point, 1.909987, 57.495955, 0.813658
+Trailing Edge Point, 28.952350, 57.495955, -0.021544
+Chord, 27.055258
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_31.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 31
+XSec Flag, 0
+FoilSurf u Value, 0.313131
+Global u Value, 0.437710
+Leading Edge Point, 1.972876, 59.412486, 0.805292
+Trailing Edge Point, 28.925272, 59.412486, -0.019048
+Chord, 26.965000
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_32.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 32
+XSec Flag, 0
+FoilSurf u Value, 0.323232
+Global u Value, 0.441077
+Leading Edge Point, 2.035765, 61.329018, 0.796926
+Trailing Edge Point, 28.898194, 61.329018, -0.016551
+Chord, 26.874744
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_33.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 33
+XSec Flag, 0
+FoilSurf u Value, 0.333333
+Global u Value, 0.444444
+Leading Edge Point, 2.098654, 63.245550, 0.788560
+Trailing Edge Point, 28.871117, 63.245550, -0.014055
+Chord, 26.784490
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_34.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 34
+XSec Flag, 0
+FoilSurf u Value, 0.343434
+Global u Value, 0.447811
+Leading Edge Point, 2.161543, 65.162082, 0.780194
+Trailing Edge Point, 28.844039, 65.162082, -0.011559
+Chord, 26.694240
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_35.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 35
+XSec Flag, 0
+FoilSurf u Value, 0.353535
+Global u Value, 0.451178
+Leading Edge Point, 2.224432, 67.078614, 0.771828
+Trailing Edge Point, 28.816961, 67.078614, -0.009062
+Chord, 26.603991
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_36.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 36
+XSec Flag, 0
+FoilSurf u Value, 0.363636
+Global u Value, 0.454545
+Leading Edge Point, 2.287322, 68.995145, 0.763462
+Trailing Edge Point, 28.789883, 68.995145, -0.006566
+Chord, 26.513746
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_37.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 37
+XSec Flag, 0
+FoilSurf u Value, 0.373737
+Global u Value, 0.457912
+Leading Edge Point, 2.350211, 70.911677, 0.755096
+Trailing Edge Point, 28.762805, 70.911677, -0.004069
+Chord, 26.423502
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_38.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 38
+XSec Flag, 0
+FoilSurf u Value, 0.383838
+Global u Value, 0.461279
+Leading Edge Point, 2.413100, 72.828209, 0.746730
+Trailing Edge Point, 28.735727, 72.828209, -0.001573
+Chord, 26.333262
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_39.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 39
+XSec Flag, 0
+FoilSurf u Value, 0.393939
+Global u Value, 0.464646
+Leading Edge Point, 2.475989, 74.744741, 0.738364
+Trailing Edge Point, 28.708649, 74.744741, 0.000924
+Chord, 26.243024
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_40.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 40
+XSec Flag, 0
+FoilSurf u Value, 0.404040
+Global u Value, 0.468013
+Leading Edge Point, 2.538878, 76.661273, 0.729998
+Trailing Edge Point, 28.681571, 76.661273, 0.003420
+Chord, 26.152788
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_41.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 41
+XSec Flag, 0
+FoilSurf u Value, 0.414141
+Global u Value, 0.471380
+Leading Edge Point, 2.601767, 78.577805, 0.721632
+Trailing Edge Point, 28.654494, 78.577805, 0.005917
+Chord, 26.062556
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_42.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 42
+XSec Flag, 0
+FoilSurf u Value, 0.424242
+Global u Value, 0.474747
+Leading Edge Point, 2.664656, 80.494336, 0.713265
+Trailing Edge Point, 28.627416, 80.494336, 0.008413
+Chord, 25.972326
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_43.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 43
+XSec Flag, 0
+FoilSurf u Value, 0.434343
+Global u Value, 0.478114
+Leading Edge Point, 2.727545, 82.410868, 0.704899
+Trailing Edge Point, 28.600338, 82.410868, 0.010910
+Chord, 25.882099
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_44.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 44
+XSec Flag, 0
+FoilSurf u Value, 0.444444
+Global u Value, 0.481481
+Leading Edge Point, 2.790434, 84.327400, 0.696533
+Trailing Edge Point, 28.573260, 84.327400, 0.013406
+Chord, 25.791874
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_45.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 45
+XSec Flag, 0
+FoilSurf u Value, 0.454545
+Global u Value, 0.484848
+Leading Edge Point, 2.853323, 86.243932, 0.688167
+Trailing Edge Point, 28.546182, 86.243932, 0.015903
+Chord, 25.701652
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_46.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 46
+XSec Flag, 0
+FoilSurf u Value, 0.464646
+Global u Value, 0.488215
+Leading Edge Point, 2.916212, 88.160464, 0.679801
+Trailing Edge Point, 28.519104, 88.160464, 0.018399
+Chord, 25.611433
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_47.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 47
+XSec Flag, 0
+FoilSurf u Value, 0.474747
+Global u Value, 0.491582
+Leading Edge Point, 2.979101, 90.076996, 0.671435
+Trailing Edge Point, 28.492026, 90.076996, 0.020896
+Chord, 25.521217
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_48.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 48
+XSec Flag, 0
+FoilSurf u Value, 0.484848
+Global u Value, 0.494949
+Leading Edge Point, 3.041991, 91.993527, 0.663069
+Trailing Edge Point, 28.464948, 91.993527, 0.023392
+Chord, 25.431004
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_49.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 49
+XSec Flag, 0
+FoilSurf u Value, 0.494949
+Global u Value, 0.498316
+Leading Edge Point, 3.104880, 93.910059, 0.654703
+Trailing Edge Point, 28.437871, 93.910059, 0.025888
+Chord, 25.340794
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_50.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 50
+XSec Flag, 0
+FoilSurf u Value, 0.505051
+Global u Value, 0.501684
+Leading Edge Point, 3.167769, 95.826591, 0.646337
+Trailing Edge Point, 28.410793, 95.826591, 0.028385
+Chord, 25.250587
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_51.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 51
+XSec Flag, 0
+FoilSurf u Value, 0.515152
+Global u Value, 0.505051
+Leading Edge Point, 3.230658, 97.743123, 0.637971
+Trailing Edge Point, 28.383715, 97.743123, 0.030881
+Chord, 25.160382
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_52.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 52
+XSec Flag, 0
+FoilSurf u Value, 0.525253
+Global u Value, 0.508418
+Leading Edge Point, 3.293547, 99.659655, 0.629605
+Trailing Edge Point, 28.356637, 99.659655, 0.033378
+Chord, 25.070181
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_53.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 53
+XSec Flag, 0
+FoilSurf u Value, 0.535354
+Global u Value, 0.511785
+Leading Edge Point, 3.356436, 101.576186, 0.621239
+Trailing Edge Point, 28.329559, 101.576186, 0.035874
+Chord, 24.979983
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_54.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 54
+XSec Flag, 0
+FoilSurf u Value, 0.545455
+Global u Value, 0.515152
+Leading Edge Point, 3.419325, 103.492718, 0.612873
+Trailing Edge Point, 28.302481, 103.492718, 0.038371
+Chord, 24.889787
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_55.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 55
+XSec Flag, 0
+FoilSurf u Value, 0.555556
+Global u Value, 0.518519
+Leading Edge Point, 3.482214, 105.409250, 0.604507
+Trailing Edge Point, 28.275403, 105.409250, 0.040867
+Chord, 24.799595
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_56.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 56
+XSec Flag, 0
+FoilSurf u Value, 0.565657
+Global u Value, 0.521886
+Leading Edge Point, 3.545103, 107.325782, 0.596141
+Trailing Edge Point, 28.248325, 107.325782, 0.043364
+Chord, 24.709406
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_57.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 57
+XSec Flag, 0
+FoilSurf u Value, 0.575758
+Global u Value, 0.525253
+Leading Edge Point, 3.607992, 109.242314, 0.587775
+Trailing Edge Point, 28.221248, 109.242314, 0.045860
+Chord, 24.619220
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_58.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 58
+XSec Flag, 0
+FoilSurf u Value, 0.585859
+Global u Value, 0.528620
+Leading Edge Point, 3.670881, 111.158846, 0.579409
+Trailing Edge Point, 28.194170, 111.158846, 0.048357
+Chord, 24.529038
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_59.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 59
+XSec Flag, 0
+FoilSurf u Value, 0.595960
+Global u Value, 0.531987
+Leading Edge Point, 3.733770, 113.075377, 0.571043
+Trailing Edge Point, 28.167092, 113.075377, 0.050853
+Chord, 24.438858
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_60.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 60
+XSec Flag, 0
+FoilSurf u Value, 0.606061
+Global u Value, 0.535354
+Leading Edge Point, 3.796660, 114.991909, 0.562676
+Trailing Edge Point, 28.140014, 114.991909, 0.053350
+Chord, 24.348682
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_61.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 61
+XSec Flag, 0
+FoilSurf u Value, 0.616162
+Global u Value, 0.538721
+Leading Edge Point, 3.859549, 116.908441, 0.554310
+Trailing Edge Point, 28.112936, 116.908441, 0.055846
+Chord, 24.258509
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_62.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 62
+XSec Flag, 0
+FoilSurf u Value, 0.626263
+Global u Value, 0.542088
+Leading Edge Point, 3.922438, 118.824973, 0.545944
+Trailing Edge Point, 28.085858, 118.824973, 0.058343
+Chord, 24.168340
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_63.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 63
+XSec Flag, 0
+FoilSurf u Value, 0.636364
+Global u Value, 0.545455
+Leading Edge Point, 3.985327, 120.741505, 0.537578
+Trailing Edge Point, 28.058780, 120.741505, 0.060839
+Chord, 24.078174
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_64.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 64
+XSec Flag, 0
+FoilSurf u Value, 0.646465
+Global u Value, 0.548822
+Leading Edge Point, 4.048216, 122.658036, 0.529212
+Trailing Edge Point, 28.031702, 122.658036, 0.063336
+Chord, 23.988011
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_65.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 65
+XSec Flag, 0
+FoilSurf u Value, 0.656566
+Global u Value, 0.552189
+Leading Edge Point, 4.111105, 124.574568, 0.520846
+Trailing Edge Point, 28.004625, 124.574568, 0.065832
+Chord, 23.897852
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_66.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 66
+XSec Flag, 0
+FoilSurf u Value, 0.666667
+Global u Value, 0.555556
+Leading Edge Point, 4.173994, 126.491100, 0.512480
+Trailing Edge Point, 27.977547, 126.491100, 0.068328
+Chord, 23.807696
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_67.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 67
+XSec Flag, 0
+FoilSurf u Value, 0.676768
+Global u Value, 0.558923
+Leading Edge Point, 4.236883, 128.407632, 0.504114
+Trailing Edge Point, 27.950469, 128.407632, 0.070825
+Chord, 23.717544
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_68.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 68
+XSec Flag, 0
+FoilSurf u Value, 0.686869
+Global u Value, 0.562290
+Leading Edge Point, 4.299772, 130.324164, 0.495748
+Trailing Edge Point, 27.923391, 130.324164, 0.073321
+Chord, 23.627395
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_69.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 69
+XSec Flag, 0
+FoilSurf u Value, 0.696970
+Global u Value, 0.565657
+Leading Edge Point, 4.362661, 132.240696, 0.487382
+Trailing Edge Point, 27.896313, 132.240696, 0.075818
+Chord, 23.537250
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_70.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 70
+XSec Flag, 0
+FoilSurf u Value, 0.707071
+Global u Value, 0.569024
+Leading Edge Point, 4.425550, 134.157227, 0.479016
+Trailing Edge Point, 27.869235, 134.157227, 0.078314
+Chord, 23.447109
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_71.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 71
+XSec Flag, 0
+FoilSurf u Value, 0.717172
+Global u Value, 0.572391
+Leading Edge Point, 4.488439, 136.073759, 0.470650
+Trailing Edge Point, 27.842157, 136.073759, 0.080811
+Chord, 23.356971
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_72.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 72
+XSec Flag, 0
+FoilSurf u Value, 0.727273
+Global u Value, 0.575758
+Leading Edge Point, 4.551329, 137.990291, 0.462284
+Trailing Edge Point, 27.815079, 137.990291, 0.083307
+Chord, 23.266837
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_73.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 73
+XSec Flag, 0
+FoilSurf u Value, 0.737374
+Global u Value, 0.579125
+Leading Edge Point, 4.614218, 139.906823, 0.453918
+Trailing Edge Point, 27.788002, 139.906823, 0.085804
+Chord, 23.176707
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_74.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 74
+XSec Flag, 0
+FoilSurf u Value, 0.747475
+Global u Value, 0.582492
+Leading Edge Point, 4.677107, 141.823355, 0.445552
+Trailing Edge Point, 27.760924, 141.823355, 0.088300
+Chord, 23.086581
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_75.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 75
+XSec Flag, 0
+FoilSurf u Value, 0.757576
+Global u Value, 0.585859
+Leading Edge Point, 4.739996, 143.739886, 0.437186
+Trailing Edge Point, 27.733846, 143.739886, 0.090797
+Chord, 22.996459
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_76.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 76
+XSec Flag, 0
+FoilSurf u Value, 0.767677
+Global u Value, 0.589226
+Leading Edge Point, 4.802885, 145.656418, 0.428820
+Trailing Edge Point, 27.706768, 145.656418, 0.093293
+Chord, 22.906340
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_77.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 77
+XSec Flag, 0
+FoilSurf u Value, 0.777778
+Global u Value, 0.592593
+Leading Edge Point, 4.865774, 147.572950, 0.420454
+Trailing Edge Point, 27.679690, 147.572950, 0.095790
+Chord, 22.816226
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_78.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 78
+XSec Flag, 0
+FoilSurf u Value, 0.787879
+Global u Value, 0.595960
+Leading Edge Point, 4.928663, 149.489482, 0.412087
+Trailing Edge Point, 27.652612, 149.489482, 0.098286
+Chord, 22.726116
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_79.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 79
+XSec Flag, 0
+FoilSurf u Value, 0.797980
+Global u Value, 0.599327
+Leading Edge Point, 4.991552, 151.406014, 0.403721
+Trailing Edge Point, 27.625534, 151.406014, 0.100783
+Chord, 22.636009
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_80.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 80
+XSec Flag, 0
+FoilSurf u Value, 0.808081
+Global u Value, 0.602694
+Leading Edge Point, 5.054441, 153.322546, 0.395355
+Trailing Edge Point, 27.598456, 153.322546, 0.103279
+Chord, 22.545907
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_81.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 81
+XSec Flag, 0
+FoilSurf u Value, 0.818182
+Global u Value, 0.606061
+Leading Edge Point, 5.117330, 155.239077, 0.386989
+Trailing Edge Point, 27.571379, 155.239077, 0.105775
+Chord, 22.455809
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_82.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 82
+XSec Flag, 0
+FoilSurf u Value, 0.828283
+Global u Value, 0.609428
+Leading Edge Point, 5.180219, 157.155609, 0.378623
+Trailing Edge Point, 27.544301, 157.155609, 0.108272
+Chord, 22.365715
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_83.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 83
+XSec Flag, 0
+FoilSurf u Value, 0.838384
+Global u Value, 0.612795
+Leading Edge Point, 5.243109, 159.072141, 0.370257
+Trailing Edge Point, 27.517223, 159.072141, 0.110768
+Chord, 22.275626
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_84.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 84
+XSec Flag, 0
+FoilSurf u Value, 0.848485
+Global u Value, 0.616162
+Leading Edge Point, 5.305998, 160.988673, 0.361891
+Trailing Edge Point, 27.490145, 160.988673, 0.113265
+Chord, 22.185540
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_85.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 85
+XSec Flag, 0
+FoilSurf u Value, 0.858586
+Global u Value, 0.619529
+Leading Edge Point, 5.368887, 162.905205, 0.353525
+Trailing Edge Point, 27.463067, 162.905205, 0.115761
+Chord, 22.095460
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_86.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 86
+XSec Flag, 0
+FoilSurf u Value, 0.868687
+Global u Value, 0.622896
+Leading Edge Point, 5.431776, 164.821736, 0.345159
+Trailing Edge Point, 27.435989, 164.821736, 0.118258
+Chord, 22.005383
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_87.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 87
+XSec Flag, 0
+FoilSurf u Value, 0.878788
+Global u Value, 0.626263
+Leading Edge Point, 5.494665, 166.738268, 0.336793
+Trailing Edge Point, 27.408911, 166.738268, 0.120754
+Chord, 21.915311
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_88.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 88
+XSec Flag, 0
+FoilSurf u Value, 0.888889
+Global u Value, 0.629630
+Leading Edge Point, 5.557554, 168.654800, 0.328427
+Trailing Edge Point, 27.381833, 168.654800, 0.123251
+Chord, 21.825244
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_89.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 89
+XSec Flag, 0
+FoilSurf u Value, 0.898990
+Global u Value, 0.632997
+Leading Edge Point, 5.620443, 170.571332, 0.320061
+Trailing Edge Point, 27.354755, 170.571332, 0.125747
+Chord, 21.735181
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_90.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 90
+XSec Flag, 0
+FoilSurf u Value, 0.909091
+Global u Value, 0.636364
+Leading Edge Point, 5.683332, 172.487864, 0.311695
+Trailing Edge Point, 27.327678, 172.487864, 0.128244
+Chord, 21.645123
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_91.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 91
+XSec Flag, 0
+FoilSurf u Value, 0.919192
+Global u Value, 0.639731
+Leading Edge Point, 5.746221, 174.404396, 0.303329
+Trailing Edge Point, 27.300600, 174.404396, 0.130740
+Chord, 21.555070
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_92.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 92
+XSec Flag, 0
+FoilSurf u Value, 0.929293
+Global u Value, 0.643098
+Leading Edge Point, 5.809110, 176.320927, 0.294963
+Trailing Edge Point, 27.273522, 176.320927, 0.133237
+Chord, 21.465021
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_93.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 93
+XSec Flag, 0
+FoilSurf u Value, 0.939394
+Global u Value, 0.646465
+Leading Edge Point, 5.871999, 178.237459, 0.286597
+Trailing Edge Point, 27.246444, 178.237459, 0.135733
+Chord, 21.374977
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_94.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 94
+XSec Flag, 0
+FoilSurf u Value, 0.949495
+Global u Value, 0.649832
+Leading Edge Point, 5.934888, 180.153991, 0.278231
+Trailing Edge Point, 27.219366, 180.153991, 0.138230
+Chord, 21.284938
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_95.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 95
+XSec Flag, 0
+FoilSurf u Value, 0.959596
+Global u Value, 0.653199
+Leading Edge Point, 5.997778, 182.070523, 0.269865
+Trailing Edge Point, 27.192288, 182.070523, 0.140726
+Chord, 21.194904
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_96.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 96
+XSec Flag, 0
+FoilSurf u Value, 0.969697
+Global u Value, 0.656566
+Leading Edge Point, 6.060667, 183.987055, 0.261498
+Trailing Edge Point, 27.165210, 183.987055, 0.143223
+Chord, 21.104875
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_97.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 97
+XSec Flag, 0
+FoilSurf u Value, 0.979798
+Global u Value, 0.659933
+Leading Edge Point, 6.123556, 185.903586, 0.253132
+Trailing Edge Point, 27.138132, 185.903586, 0.145719
+Chord, 21.014851
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_98.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 98
+XSec Flag, 0
+FoilSurf u Value, 0.989899
+Global u Value, 0.663300
+Leading Edge Point, 6.186445, 187.820118, 0.244766
+Trailing Edge Point, 27.111055, 187.820118, 0.148215
+Chord, 20.924833
+########################################
+
+########################################
+Airfoil File Name, CleanWing_MBEXGJVFKZ_99.dat
+Geom Name, CleanWing
+Geom ID, MBEXGJVFKZ
+Airfoil Index, 99
+XSec Flag, 1
+XSec Index, 1
+XSecSurf ID, VQYSHCDLJN
+FoilSurf u Value, 1.000000
+Global u Value, 0.666667
+Leading Edge Point, 6.249334, 189.736650, 0.236400
+Trailing Edge Point, 27.083977, 189.736650, 0.150712
+Chord, 20.834819
+########################################
+
